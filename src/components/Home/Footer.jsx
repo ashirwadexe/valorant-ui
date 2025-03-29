@@ -41,7 +41,7 @@ const Footer = () => {
       </div>
 
       {/* Creator Info */}
-      <div className='flex flex-col gap-4 items-center justify-center pt-5 text-center'>
+      <div className='flex flex-col gap-4 items-center justify-center py-3 text-center'>
         <p>
           Made with 💗 by <a href='https://ashirwadexe.netlify.app' target='_blank' rel='noopener noreferrer' className='font-semibold hover:border px-2 rounded-full'>Ashirwad</a>
         </p>
